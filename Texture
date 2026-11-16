@@ -1,0 +1,149 @@
+return {
+    Texture = {
+        ["1"] = "rbxassetid://100366816713121", 
+        ["2"] = "rbxassetid://112496248356694",
+        ["3"] = "rbxassetid://130405952641264",
+    },
+    Icons = {
+        ["ScreenGui"] = {
+        	Image = 2,
+            ImageRectPosition = Vector2.new(160, 288),
+            ImageRectSize = Vector2.new(32, 32),
+        },
+        ["Frame"] = {
+        	Image = 2,
+            ImageRectOffset = Vector2.new(128, 32),
+            ImageRectSize = Vector2.new(32, 32),
+        },
+        ["ScrollingFrame"] = {
+        	Image = 2,
+            ImageRectPosition = Vector2.new(224, 288),
+            ImageRectSize = Vector2.new(32, 32),
+        },
+        ["VideoFrame"] = {
+        	Image = 3,
+            ImageRectPosition = Vector2.new(256, 257),
+            ImageRectSize = Vector2.new(32, 32),
+        },
+        ["ViewportFrame"] = {
+        	Image = 3,
+            ImageRectPosition = Vector2.new(0, 288),
+            ImageRectSize = Vector2.new(32, 32),
+        },
+        ["TextButton"] = {
+        	Image = 3,
+            ImageRectPosition = Vector2.new(256, 128),
+            ImageRectSize = Vector2.new(32, 32),
+        },
+        ["TextLabel"] = {
+        	Image = 3,
+            ImageRectPosition = Vector2.new(63, 160),
+            ImageRectSize = Vector2.new(32, 32),
+        },
+        ["TextBox"] = {
+        	Image = 3,
+            ImageRectPosition = Vector2.new(192, 128),
+            ImageRectSize = Vector2.new(32, 32),
+        },
+        ["ImageButton"] = {
+        	Image = 2,
+            ImageRectPosition = Vector2.new(224, 64),
+            ImageRectSize = Vector2.new(32, 32),
+        },
+        ["ImageLabel"] = {
+        	Image = 2,
+            ImageRectPosition = Vector2.new(288, 64),
+            ImageRectSize = Vector2.new(32, 32),
+        },
+        ["CanvasGroup"] = {
+        	Image = 1,
+            ImageRectPosition = Vector2.new(192, 192),
+            ImageRectSize = Vector2.new(32, 32),
+        },
+        ["UICorner"] = {
+        	Image = 3,
+            ImageRectPosition = Vector2.new(127, 191),
+            ImageRectSize = Vector2.new(32, 32),
+        },
+        ["UIStroke"] = {
+        	Image = 3,
+            ImageRectPosition = Vector2.new(128, 224),
+            ImageRectSize = Vector2.new(32, 32),
+        },
+        ["UIScale"] = {
+        	Image = 3,
+            ImageRectPosition = Vector2.new(64, 224),
+            ImageRectSize = Vector2.new(32, 32),
+        },
+        ["UIGradient"] = {
+        	Image = 3,
+            ImageRectPosition = Vector2.new(224, 192),
+            ImageRectSize = Vector2.new(32, 32),
+        },
+        ["UIDragDetector"] = {
+        	Image = 3,
+            ImageRectPosition = Vector2.new(160, 191),
+            ImageRectSize = Vector2.new(32, 32),
+        },
+        ["UIPadding"] = {
+        	Image = 3,
+            ImageRectPosition = Vector2.new(0, 224),
+            ImageRectSize = Vector2.new(32, 32),
+        },
+        ["UIPageLayout"] = {
+        	Image = 3,
+            ImageRectPosition = Vector2.new(32, 224),
+            ImageRectSize = Vector2.new(32, 32),
+        },
+        ["UIGridLayout"] = {
+        	Image = 3,
+            ImageRectPosition = Vector2.new(256, 192),
+            ImageRectSize = Vector2.new(32, 32),
+        },
+        ["UIListLayout"] = {
+        	Image = 3,
+            ImageRectPosition = Vector2.new(288, 192),
+            ImageRectSize = Vector2.new(32, 32),
+        },
+        ["UISizeConstraint"] = {
+        	Image = 3,
+            ImageRectPosition = Vector2.new(96, 224),
+            ImageRectSize = Vector2.new(32, 32),
+        },
+        ["UITextSizeConstraint"] = {
+        	Image = 3,
+            ImageRectPosition = Vector2.new(192, 224),
+            ImageRectSize = Vector2.new(32, 32),
+        },
+        ["UIAspectRatioConstraint"] = {
+        	Image = 3,
+            ImageRectPosition = Vector2.new(96, 193),
+            ImageRectSize = Vector2.new(32, 32),
+        },
+        ["UITableLayout"] = {
+            Image = 3,
+            ImageRectPosition = Vector2.new(160, 224),
+            ImageRectSize = Vector2.new(32, 32),
+        },
+        ["UIFlexItem"] = {
+            Image = 3,
+            ImageRectPosition = Vector2.new(192, 191),
+            ImageRectSize = Vector2.new(32, 32),
+        },
+        ["Folder"] = {
+            Image = 2,
+            ImageRectPosition = Vector2.new(64, 32),
+            ImageRectSize = Vector2.new(32, 32),
+        },
+        ["ModuleScript"] = {
+            Image = 2,
+            ImageRectPosition = Vector2.new(128, 160),
+            ImageRectSize = Vector2.new(32, 32),
+        },
+        ["LocalScript"] = {
+            Image = 2,
+            ImageRectPosition = Vector2.new(96, 128),
+            ImageRectSize = Vector2.new(32, 32),
+        },
+    },
+}
