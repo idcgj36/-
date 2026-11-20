@@ -70,6 +70,11 @@ return {
             ImageRectPosition = Vector2.new(128, 224),
             ImageRectSize = Vector2.new(32, 32),
         },
+        ["UIShadow"] = {
+        	Image = 2,
+            ImageRectPosition = Vector2.new(0, 224),
+            ImageRectSize = Vector2.new(32, 32),
+        },
         ["UIScale"] = {
         	Image = 3,
             ImageRectPosition = Vector2.new(64, 224),
